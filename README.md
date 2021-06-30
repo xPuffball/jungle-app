@@ -45,7 +45,6 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * bcrypt
 
 ## Testing Dependencies
-* phantomjs
-* capybara
-* poltergeist
-* database_cleaner
+* PhantomJS
+* Capybara
+* Poltergeist
