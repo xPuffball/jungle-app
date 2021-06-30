@@ -4,9 +4,13 @@ Welcome to (the) **Jungle**!
 Jungle is an e-commerce application that is built with Ruby on Rails 4.2.
 
 ## Screenshots
+### Product Page
 !["Product Page"](https://github.com/xPuffball/jungle-app/blob/main/docs/Product%20Page.JPG)
+### Cart
 !["Cart"](https://github.com/xPuffball/jungle-app/blob/main/docs/My%20Cart.JPG)
+### Admin Product Dashboard
 !["Admin Product Dashboard"](https://github.com/xPuffball/jungle-app/blob/main/docs/All%20Products.JPG)
+### Admin Product Categories
 !["Admin Product Categories"](https://github.com/xPuffball/jungle-app/blob/main/docs/Categories.JPG)
 
 ## Additional Steps for Apple M1 Machines
